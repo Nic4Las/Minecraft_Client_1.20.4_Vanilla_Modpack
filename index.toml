@@ -149,8 +149,3 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
 metafile = true
-
-[[files]]
-file = "mods/vulkanmod.pw.toml"
-hash = "8e712cd1c96b80851ccb0ae6da7d647e42edc052837114399191ca858011d897"
-metafile = true
