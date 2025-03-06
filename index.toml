@@ -31,8 +31,18 @@ hash = "0104803f2e11d336656660c2fcde2acbf0a54d93cef8f5a7a45d6d676b84ab43"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "c666d4a01300098976b31693779d4f6130e939a6275823f0e8995921401d65a8"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
 metafile = true
 
 [[files]]
@@ -91,6 +101,11 @@ hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "a3b6cfe494d8ca3b080ce18d94d3218d7a76545d8b05e3f0b92a2b15c45c97dd"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
@@ -133,4 +148,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
+metafile = true
+
+[[files]]
+file = "mods/vulkanmod.pw.toml"
+hash = "8e712cd1c96b80851ccb0ae6da7d647e42edc052837114399191ca858011d897"
 metafile = true
